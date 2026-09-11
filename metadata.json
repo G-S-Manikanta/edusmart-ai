@@ -1,0 +1,11 @@
+{
+  "name": "EduSmart AI",
+  "description": "A smart teaching platform with AI-powered learning playgrounds, teacher performance tracking, and student dashboards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
